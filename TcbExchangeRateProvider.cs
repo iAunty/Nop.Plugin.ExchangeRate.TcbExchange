@@ -36,6 +36,7 @@ namespace Nop.Plugin.ExchangeRate.EcbExchange
 
         /// <summary>
         /// Gets currency live rates
+        /// Rate Url is : https://www.tcb-bank.com.tw/finance_info/Pages/foreign_spot_rate.aspx
         /// </summary>
         /// <param name="exchangeRateCurrencyCode">Exchange rate currency code</param>
         /// <returns>Exchange rates</returns>
